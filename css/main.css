@@ -1,0 +1,29 @@
+/*body{
+	background-color: #E0F2F7;
+	background-image: url(img/background.jpg);
+}*/
+img.nopresentacion{
+	max-width: 100%;
+	max-height: 20em;
+}
+
+img.diseno{
+    width: 15em;
+    height: 15em;
+}
+
+footer{
+	background-color: #D8D8D8;
+}
+
+.separador{
+	background-color: black;
+}
+
+table{
+	border: 0px;
+}
+
+#presentacion{
+	width:100%;
+}
